@@ -7,6 +7,7 @@
     "@cosmjs/faucet-client": "^0.27.1",
     "@cosmjs/launchpad": "^0.27.1",
     "@cosmjs/proto-signing": "^0.27.1",
+    "@keplr-wallet/types": "^0.10.13",
     "@reduxjs/toolkit": "^1.7.2",
     "@shoelace-style/shoelace": "^2.0.0-beta.64",
     "@testing-library/jest-dom": "^4.2.4",
@@ -52,7 +53,6 @@
     ]
   },
   "devDependencies": {
-    "@keplr-wallet/types": "^0.9.12",
     "craco": "^0.0.3",
     "webpack": "^5.68.0"
   }
